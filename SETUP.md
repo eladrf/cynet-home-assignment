@@ -5,7 +5,7 @@
 - Username Info:
   - Username: `eyald@cynethomeassignment.com`
   - Email: `eyald@cynet.com`
-  - Password: `1q2w3e4r1q2w3e4r`
+  - Password: I will send you by email
 
 ## 7) REST endpoints
 ### HubSpot inbound
