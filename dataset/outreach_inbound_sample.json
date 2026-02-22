@@ -1,0 +1,14 @@
+[
+  {
+    "inbound_type": "EMAIL_REPLY",
+    "inbound_email": "dana@acme.com",
+    "notes": "Prospect replied from Outreach.",
+    "occurred_at": "2026-02-21T10:00:00Z"
+  },
+  {
+    "inbound_type": "CALL_COMPLETED",
+    "inbound_email": "sam@newco.io",
+    "notes": "SDR completed a call.",
+    "occurred_at": "2026-02-21T11:00:00Z"
+  }
+]

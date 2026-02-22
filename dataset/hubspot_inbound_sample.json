@@ -1,0 +1,38 @@
+[
+  {
+    "hs_contact_id": "HS-20001",
+    "email": "dana@acme.com",
+    "first_name": "Dana",
+    "last_name": "Levi",
+    "phone": "+972501112233",
+    "company": "Acme Ltd",
+    "website": "https://acme.com"
+  },
+  {
+    "hs_contact_id": "HS-20002",
+    "email": "alex@noopp.com",
+    "first_name": "Alex",
+    "last_name": "Cohen",
+    "phone": "+1-202-555-0144",
+    "company": "NoOpp Inc",
+    "website": "https://noopp.com"
+  },
+  {
+    "hs_contact_id": "HS-20003",
+    "email": "sam@newco.io",
+    "first_name": "Sam",
+    "last_name": "Green",
+    "phone": "+44 7700 900123",
+    "company": "NewCo",
+    "website": "https://newco.io"
+  },
+  {
+    "hs_contact_id": "HS-20004",
+    "email": "",
+    "first_name": "Unknown",
+    "last_name": "Unknown",
+    "phone": "",
+    "company": "",
+    "website": ""
+  }
+]
